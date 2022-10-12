@@ -21,4 +21,3 @@ if 1 <= user_data <= 12:
     print(f'list: {month}')
 else:
     print('list: error')
-
