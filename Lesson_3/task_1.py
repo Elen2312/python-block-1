@@ -19,6 +19,5 @@ try:
     division(x_user_data, y_user_data)
 except ZeroDivisionError:
     print("На 0 делить нельзя!")
-    
 
 
